@@ -1,2 +1,2 @@
 # Ising-Model
-3nd Assignment of Parallel and Distributed Systems course (AUTH)
+3d Assignment of Parallel and Distributed Systems course (AUTH)
